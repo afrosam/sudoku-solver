@@ -9,6 +9,7 @@ It uses tailwind to help make it responsive and better control the CSS, basic JS
 ## Unfortunately Repl.it will not load most of the apps anymore
 
 Here is a link to the results of the QA project however:
+
 ![image](https://user-images.githubusercontent.com/10363122/211681819-ce6f163a-33af-48df-9b8d-62aa84272629.png)
 
 Feel free to parse the code if you want.
